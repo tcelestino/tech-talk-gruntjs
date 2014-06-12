@@ -52,9 +52,6 @@ module.exports = function(grunt) {
     },
 
     uglify: {
-      options: {
-        mangle: false
-      },
       build: {
         files: {
           'assets/app.min.js': 'assets/js/app.js',
