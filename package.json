@@ -6,8 +6,16 @@
     "type": "git",
     "url": "git@github.com:tcelestino/tech-talk-gruntjs.git"
   },
+  "author": "Tiago Celestino <tcelestino@gmail.com>",
   "devDependencies": {
     "grunt": "~0.4.5",
-    "grunt-contrib-compass": "~0.6.0"
+    "grunt-browser-sync": "^0.7.2",
+    "grunt-contrib-compass": "~0.6.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-cssmin": "^0.9.0",
+    "grunt-contrib-jasmine": "^0.6.5",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "~0.5.3",
+    "load-grunt-tasks": "^0.5.0"
   }
 }
