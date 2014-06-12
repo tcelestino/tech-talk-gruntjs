@@ -1,0 +1,13 @@
+{
+  "name": "techtalk-gruntjs",
+  "version": "0.1.0",
+  "description": "Automatizando tarefas no front-end",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tcelestino/tech-talk-gruntjs.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "~0.6.0"
+  }
+}

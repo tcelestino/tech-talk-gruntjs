@@ -1,0 +1,10 @@
+@import "compass/css3";
+
+.header {
+  margin-bottom: 30px;
+  .nav {
+    .active a {
+      background: black;
+    }
+  }
+}
