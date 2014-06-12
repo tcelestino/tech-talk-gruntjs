@@ -18,6 +18,7 @@ Exemplos de como usar o Gruntjs para automatizar tarefas front-end.
 * [Node Packaged Modules](https://www.npmjs.org/)
 * [gruntjs](http://gruntjs.com)
 * [gruntjs plugins](http://gruntjs.com/plugins)
+* [Jasmine](http://jasmine.github.io/)
 
 
 ## Referências
@@ -30,3 +31,6 @@ por [@sergiolopes](https://github.com/sergiolopes)
 
 ###[Get Up And Running With Grunt](http://coding.smashingmagazine.com/2013/10/29/get-up-running-grunt/)
 por [@mrcunsolo](https://twitter.com/mrcunsolo)
+
+###[Testing JavaScript Using the Jasmine Framework](http://www.htmlgoodies.com/beyond/javascript/testing-javascript-using-the-jasmine-framework.html)
+por Rob Gravelle
