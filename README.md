@@ -9,7 +9,7 @@ Exemplos de como usar o Gruntjs para automatizar tarefas front-end.
 * [grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat)
 * [grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify)
 * [grunt-contrib-cssmin](https://github.com/gruntjs/grunt-contrib-cssmin)
-* [load-grunt-task](https://github.com/sindresorhus/load-grunt-tasks)
+* [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks)
 * [grunt-browser-sync](https://github.com/shakyshane/grunt-browser-sync)
 
 ##Sites
