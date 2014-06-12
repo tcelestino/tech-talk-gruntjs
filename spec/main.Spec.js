@@ -1,4 +1,4 @@
-describe("Example Test Jasmine", function() {
+describe("Stock Portfolio App Tests", function() {
   var presentValue,
       previousValue,
       aPercentChanges;
